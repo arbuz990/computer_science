@@ -1,0 +1,6 @@
+test Q1 - program is good, but print statements should relate to the conditional
+test Q2 - great
+test Q3 - You need to learn this, it is in the Operators in Python - Housekeeping pdf
+test Q4 - great
+test Q5 - great
+6 & 7 - can you do these
